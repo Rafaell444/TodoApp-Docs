@@ -1,0 +1,11 @@
+site_name: ToDo App
+site_url: https://example.com/
+nav:
+    - About: about.md
+    - Levels: level.md
+    - Stacks: stacks.md
+    - Crud: crud.md
+    - Code: https://github.com/Rafaell444/stand
+    - Download: download.md
+theme:
+    name: material
